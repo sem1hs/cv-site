@@ -1,0 +1,39 @@
+{
+  "name": "Semih Şahinoğlu",
+  "contact": {
+    "gmail": "semihshngl@gmail.com",
+    "phone": "0530 946 8761",
+    "location": "Istanbul, Maltepe"
+  },
+  "title": "Software Engineering Student",
+  "about": " I’m a third-year software engineering student deeply passionate about Fullstack development. Proficient in HTML, CSS, JavaScript, React, Java, Typescript and MongoDB, I thrive in dynamic environments where innovation and collaboration drive success. With a track record of delivering solutions, I’m eager to contribute my skills to real-world projects and collaborate with industry professionals to build remarkable experiences",
+  "shortAbout": "A passionate software engineering student in Computer",
+  "school": {
+    "schoolName": "Istanbul Gelisim University",
+    "department": "Software Engineering",
+    "beginDate": "2022",
+    "endDate": "2026"
+  },
+  "skills": [
+    { "name": "HTML" },
+    { "name": "CSS" },
+    { "name": "Javascript" },
+    { "name": "React.js" },
+    { "name": "Node.js" },
+    { "name": "Java / Spring" },
+    { "name": "MongoDB" },
+    { "name": "GitHub" }
+  ],
+  "projects": [
+    {
+      "name": "Adventure Game",
+      "description": "It was a simple Java project based on OOP. In this project i have learned how to use OOP's features such as how to use Abstract Classes, Inheritance, Polymorphism.",
+      "link": "https://github.com/sem1hs/AdventureGame"
+    },
+    {
+      "name": "Live Chat App",
+      "description": "Fullstack applications, such as React, Node.js, MongoDB and Express.js, is a live message application that I made to improve myself in this project. With As a Programmer Youtube",
+      "link": "https://github.com/sem1hs/Live-Chat-App"
+    }
+  ]
+}
