@@ -1,4 +1,5 @@
 import Content from "../components/Content";
+import Footer from "../components/Footer";
 import Header from "../components/Header";
 import Sidebar from "../components/Sidebar";
 const Home = () => {
@@ -11,6 +12,9 @@ const Home = () => {
           <Content></Content>
         </div>
       </main>
+      <footer>
+        <Footer>Copyright © 2024 by Semih Şahinoğlu</Footer>
+      </footer>
     </div>
   );
 };
